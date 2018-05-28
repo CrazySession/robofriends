@@ -7,4 +7,4 @@ by <h2>Andrei Neagoie</h2>.
 The app shows several "Robofriends" created with help of <a target="_blank" href="https://jsonplaceholder.typicode.com/">JasonPlaceHolder</a> to fill
 the virtuel RoboDB with some names.
 
-You can search for "friends by using the searchbar at the top.
+You can search for "friends" by using the searchbar at the top.
